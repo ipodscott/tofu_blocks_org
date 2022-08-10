@@ -1,0 +1,39 @@
+.interface-interface-skeleton__content{
+}
+.editor-styles-wrapper.block-editor-writing-flow p{
+	font-family: 'Lato', sans-serif;
+	color: #000;
+}
+
+
+h1, h2, h3, h4, h4, h5, h6, p{
+	 font-family: 'Oswald', sans-serif;
+}
+
+.menu{
+	font-family: 'Lato', sans-serif;
+}
+
+.acc-head{
+	font-family: 'Oswald', sans-serif;
+}
+
+
+.wp-block-columns{
+	max-width: 750px !important;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	background-color: #efefef;
+}
+
+.wp-block-columns.alignwide{
+	max-width: 1200px !important;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.wp-block-columns.alignfull{
+	max-width: 100% !important;
+	margin-right: auto;
+	margin-left: auto;
+}
